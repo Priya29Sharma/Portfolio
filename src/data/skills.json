@@ -1,0 +1,46 @@
+
+
+[
+    {
+      "title": "HTML",
+      "imageSrc": "skills/html.png"
+    },
+    {
+      "title": "CSS",
+      "imageSrc": "skills/css.png"
+    },
+    {
+      "title": "React",
+      "imageSrc": "skills/react.png"
+    },
+    {
+      "title": "DSA",
+      "imageSrc": "skills/dsaimage.jpg"
+    },
+    {
+      "title": "DBMS",
+      "imageSrc": "skills/database.png"
+    },
+    {
+      "title": "JS",
+      "imageSrc": "skills/node.png"
+    },
+    {
+      "title": "SQL",
+      "imageSrc": "skills/node.png"
+    },
+    {
+      "title":"CN",
+      "imageSrc":"skills/computer..png"
+    },
+  
+    {
+      "title":"OOPS",
+      "imageSrc":"skills/css.png"
+    }
+
+    
+
+    
+    
+  ]

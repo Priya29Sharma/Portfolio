@@ -1,0 +1,48 @@
+[
+    {
+      "title": "Tic-Tac-Toe",
+      "imageSrc": "projects/project.png",
+      "description": "Tic Tac Toe is a React-based two-player game with a user-friendly interface and interactive  game-play. It showcases my skills in responsive design and state management, and JavaScript.",
+      "skills": ["HTML", "CSS", "JS"],
+      "demo": "https://priya29sharma.github.io/Tic_Tac_Toe-Game/",
+      "source": "https://github.com/Priya29Sharma"
+    },
+    {
+      "title": "Password Generator",
+      "imageSrc": "projects/project.png",
+      "description": "Password Generator is a tool created to generate secure and random passwords. It features customizable options for password length and character types.",
+      "skills": ["HTML", "CSS", "JS"],
+      "demo": "https://priya29sharma.github.io/Password-generator/",
+      "source": "https://github.com/Priya29Sharma"
+    },
+    {
+      "title": "To-do List",
+      "imageSrc": "projects/project.png",
+      "description": "Todo List is a React-based application enhanced with npm packages to manage tasks efficiently. It offers features like task creation, deletion, and completion tracking",
+      "skills": ["React", "Node"],
+      "demo": "https://priya29sharma.github.io/To-Do-List/",
+      "source": "https://github.com/Priya29Sharma"
+    },
+    {
+        "title": "Devdetector App",
+        "imageSrc": "projects/project.png",
+        "description": "Devdtector uses React and GitHub API to search and display user profiles dynamically. It demonstrates real-time data fetching and showcases my skills in React development and API integration.",
+        "skills": ["React", "Node"],
+        "demo": "https://www.example.com",
+        "source": "https://github.com/Priya29Sharma"
+      },
+      {
+        "title": "Nihal Import",
+        "imageSrc": "projects/project.png",
+        "description": " It presents a high-end sugar replacement solution and offers comprehensive details, advantages, and usage advice. The website's design places a strong emphasis on easy navigation and a clean look.",
+        "skills": ["WordPress"],
+        "demo": "https://nihalimport.com/",
+        "source": "https://nihalimport.com/"
+      }
+
+      
+    
+
+
+
+  ]

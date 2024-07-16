@@ -1,0 +1,91 @@
+.container4{
+    margin-top: 76px;
+    color: #fff;
+    margin-left: 10%;
+    margin-right: 10%;
+    font-family: "Roboto";
+
+}
+.title5{
+    font-size: 35px;
+    font-weight:700 ;
+    letter-spacing: 1.75;
+    text-transform: uppercase;
+   
+
+}
+.content4{
+    margin-top: 37px;
+    display: flex;
+    flex-direction: row;
+    flex-wrap: wrap;
+    align-items: center;
+    justify-content: center;
+    gap: 15px;
+    width: 100%;
+
+
+    
+}
+.container41{
+display: flex;
+flex-direction: column;
+border-radius: 10px;
+background: linear-gradient(180deg,#576cbc 0%,#132a53 100%);
+box-shadow: 0 16px 14px 0 #04152d;
+padding:18px 24px ;
+max-width: 345px;
+}
+.projectImage{
+    margin-bottom: 26px;
+}
+.project-title{
+    font-size: 25px;
+    font-weight: 700;
+
+}
+.description2{
+    margin-top: 6px;
+    font-size: 20px;
+    font-weight: 400;
+    text-align:strt; /* Justify text to distribute it evenly */
+    line-height: 1.5; /* Adjust line height for better readability */
+    
+}
+
+.skills2{
+    width:100%;
+    margin-top: 14px;
+    display: flex;
+    flex-direction: row;
+    flex-wrap: wrap;
+    gap: 6px;
+    list-style: none;
+
+}
+.skill2{
+    font-size: 25px;
+    font-weight: 400;
+    border-radius: 100px;
+    background-color:#0b2447 ;
+    padding: 2px 22px;
+
+
+}
+.links{
+    width: 100%;
+    margin-top: 26px;
+    display: flex;
+    justify-content: space-around;
+}
+.link{
+    text-decoration: none;
+    color: #fff;
+    font-size: 25px;
+    font-weight: 600;
+    border-radius: 100px;
+    background: #576cbc;
+    padding: 1px 22px;
+
+}
+
